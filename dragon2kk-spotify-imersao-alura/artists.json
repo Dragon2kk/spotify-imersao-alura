@@ -1,0 +1,48 @@
+{
+  "PLAYLIST": {
+    "DISCOS": [
+      {
+        "id": 1,
+        "titulo": "We Are Chaos",
+        "autor": "Marilyn Manson",
+        "ano": 2020,
+        "genero": "Rock"
+      },
+      {
+        "id": 2,
+        "titulo": "Músicas para Churrasco, Vol. 1",
+        "autor": "Seu Jorge",
+        "ano": 2011,
+        "genero": "Pop"
+      },
+      {
+        "id": 3,
+        "titulo": "Back in Black",
+        "autor": "AC/DC",
+        "ano": 1980,
+        "genero": "Rock"
+      },
+      {
+        "id": 4,
+        "titulo": "Alone in IZ World",
+        "autor": "Israel Kamakawiwo'ole",
+        "ano": 2001,
+        "genero": "Hawaiian, Folk"
+      },
+      {
+        "id": 5,
+        "titulo": "The Hobbit: The Desolation of Smaug",
+        "autor": "Álbum musical de Howard Shore",
+        "ano": 2013,
+        "genero": "Medieval, Fantasia"
+      },
+      {
+        "id": 6,
+        "titulo": "Motorheart",
+        "autor": "darkness",
+        "ano": 2021,
+        "genero": "Rock, Pop Rock"
+      }      
+    ]
+  }
+}
